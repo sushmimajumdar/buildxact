@@ -1,0 +1,5 @@
+C:\My Projects\CODE TESTS\Buildxact\SuppliesPriceLister.Logic\bin\Debug\netcoreapp3.1\SuppliesPriceLister.Logic.deps.json
+C:\My Projects\CODE TESTS\Buildxact\SuppliesPriceLister.Logic\bin\Debug\netcoreapp3.1\SuppliesPriceLister.Logic.dll
+C:\My Projects\CODE TESTS\Buildxact\SuppliesPriceLister.Logic\obj\Debug\netcoreapp3.1\SuppliesPriceLister.Logic.csprojAssemblyReference.cache
+C:\My Projects\CODE TESTS\Buildxact\SuppliesPriceLister.Logic\obj\Debug\netcoreapp3.1\SuppliesPriceLister.Logic.AssemblyInfoInputs.cache
+C:\My Projects\CODE TESTS\Buildxact\SuppliesPriceLister.Logic\obj\Debug\netcoreapp3.1\SuppliesPriceLister.Logic.AssemblyInfo.cs

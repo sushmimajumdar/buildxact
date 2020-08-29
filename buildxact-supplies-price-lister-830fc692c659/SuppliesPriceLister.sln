@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuppliesPriceLister.Logic",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuppliesPriceLister.Logic.Tests", "..\SuppliesPriceLister.Logic.Tests\SuppliesPriceLister.Logic.Tests.csproj", "{F49B1E97-23CF-427C-8DEF-A40B9EE80BCC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SupplierPriceLister.Models", "..\SupplierPriceLister.Models\SupplierPriceLister.Models.csproj", "{16F759E0-C756-4F11-951A-11488A897097}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{F49B1E97-23CF-427C-8DEF-A40B9EE80BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F49B1E97-23CF-427C-8DEF-A40B9EE80BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F49B1E97-23CF-427C-8DEF-A40B9EE80BCC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{16F759E0-C756-4F11-951A-11488A897097}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{16F759E0-C756-4F11-951A-11488A897097}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{16F759E0-C756-4F11-951A-11488A897097}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{16F759E0-C756-4F11-951A-11488A897097}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -2,7 +2,9 @@
 
 namespace SuppliesPriceLister.Logic
 {
-    public class Class1
+    public class Partner
     {
+        
+        LoadDataFromFile("pathtofile");
     }
 }

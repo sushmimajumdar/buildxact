@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\My Projects\\CODE TESTS\\Buildxact\\SuppliesPriceLister.Logic\\SuppliesPriceLister.Logic.csproj": {}
+    "C:\\My Projects\\CODE TESTS\\Buildxact\\SupplierPriceLister.Models\\SupplierPriceLister.Models.csproj": {}
   },
   "projects": {
-    "C:\\My Projects\\CODE TESTS\\Buildxact\\SuppliesPriceLister.Logic\\SuppliesPriceLister.Logic.csproj": {
+    "C:\\My Projects\\CODE TESTS\\Buildxact\\SupplierPriceLister.Models\\SupplierPriceLister.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\My Projects\\CODE TESTS\\Buildxact\\SuppliesPriceLister.Logic\\SuppliesPriceLister.Logic.csproj",
-        "projectName": "SuppliesPriceLister.Logic",
-        "projectPath": "C:\\My Projects\\CODE TESTS\\Buildxact\\SuppliesPriceLister.Logic\\SuppliesPriceLister.Logic.csproj",
+        "projectUniqueName": "C:\\My Projects\\CODE TESTS\\Buildxact\\SupplierPriceLister.Models\\SupplierPriceLister.Models.csproj",
+        "projectName": "SupplierPriceLister.Models",
+        "projectPath": "C:\\My Projects\\CODE TESTS\\Buildxact\\SupplierPriceLister.Models\\SupplierPriceLister.Models.csproj",
         "packagesPath": "C:\\Users\\Sush\\.nuget\\packages\\",
-        "outputPath": "C:\\My Projects\\CODE TESTS\\Buildxact\\SuppliesPriceLister.Logic\\obj\\",
+        "outputPath": "C:\\My Projects\\CODE TESTS\\Buildxact\\SupplierPriceLister.Models\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -40,16 +40,6 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "dependencies": {
-            "CsvHelper": {
-              "target": "Package",
-              "version": "[15.0.5, )"
-            },
-            "Newtonsoft.Json": {
-              "target": "Package",
-              "version": "[12.0.3, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",
