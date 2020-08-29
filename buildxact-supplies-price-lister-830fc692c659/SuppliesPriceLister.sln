@@ -7,6 +7,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SuppliesPriceLister", "Supp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuppliesPriceLister.Tests", "..\SuppliesPriceLister.Tests\SuppliesPriceLister.Tests.csproj", "{3C9E9F6D-14AE-45C9-B985-4E1EC40CB3EE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuppliesPriceLister.Logic", "..\SuppliesPriceLister.Logic\SuppliesPriceLister.Logic.csproj", "{693F81A3-7754-4B60-8FA9-A127D68CBBF1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuppliesPriceLister.Logic.Tests", "..\SuppliesPriceLister.Logic.Tests\SuppliesPriceLister.Logic.Tests.csproj", "{F49B1E97-23CF-427C-8DEF-A40B9EE80BCC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{3C9E9F6D-14AE-45C9-B985-4E1EC40CB3EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3C9E9F6D-14AE-45C9-B985-4E1EC40CB3EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3C9E9F6D-14AE-45C9-B985-4E1EC40CB3EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{693F81A3-7754-4B60-8FA9-A127D68CBBF1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693F81A3-7754-4B60-8FA9-A127D68CBBF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693F81A3-7754-4B60-8FA9-A127D68CBBF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693F81A3-7754-4B60-8FA9-A127D68CBBF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F49B1E97-23CF-427C-8DEF-A40B9EE80BCC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F49B1E97-23CF-427C-8DEF-A40B9EE80BCC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F49B1E97-23CF-427C-8DEF-A40B9EE80BCC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F49B1E97-23CF-427C-8DEF-A40B9EE80BCC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
