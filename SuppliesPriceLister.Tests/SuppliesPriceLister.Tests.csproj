@@ -13,4 +13,8 @@
     <PackageReference Include="coverlet.collector" Version="1.0.1" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\buildxact-supplies-price-lister-830fc692c659\SuppliesPriceLister.csproj" />
+  </ItemGroup>
+
 </Project>

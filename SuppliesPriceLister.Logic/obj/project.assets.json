@@ -31,6 +31,16 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
+      },
+      "SupplierPriceLister.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SupplierPriceLister.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SupplierPriceLister.Models.dll": {}
+        }
       }
     }
   },
@@ -153,12 +163,18 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "SupplierPriceLister.Models/1.0.0": {
+      "type": "project",
+      "path": "../SupplierPriceLister.Models/SupplierPriceLister.Models.csproj",
+      "msbuildProject": "../SupplierPriceLister.Models/SupplierPriceLister.Models.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
       "CsvHelper >= 15.0.5",
-      "Newtonsoft.Json >= 12.0.3"
+      "Newtonsoft.Json >= 12.0.3",
+      "SupplierPriceLister.Models >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -190,7 +206,11 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\My Projects\\CODE TESTS\\Buildxact\\SupplierPriceLister.Models\\SupplierPriceLister.Models.csproj": {
+              "projectPath": "C:\\My Projects\\CODE TESTS\\Buildxact\\SupplierPriceLister.Models\\SupplierPriceLister.Models.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -1,0 +1,8 @@
+C:\My Projects\CODE TESTS\Buildxact\SupplierPriceLister.Models\bin\Debug\netcoreapp3.1\SupplierPriceLister.Models.deps.json
+C:\My Projects\CODE TESTS\Buildxact\SupplierPriceLister.Models\bin\Debug\netcoreapp3.1\SupplierPriceLister.Models.dll
+C:\My Projects\CODE TESTS\Buildxact\SupplierPriceLister.Models\bin\Debug\netcoreapp3.1\SupplierPriceLister.Models.pdb
+C:\My Projects\CODE TESTS\Buildxact\SupplierPriceLister.Models\obj\Debug\netcoreapp3.1\SupplierPriceLister.Models.csprojAssemblyReference.cache
+C:\My Projects\CODE TESTS\Buildxact\SupplierPriceLister.Models\obj\Debug\netcoreapp3.1\SupplierPriceLister.Models.AssemblyInfoInputs.cache
+C:\My Projects\CODE TESTS\Buildxact\SupplierPriceLister.Models\obj\Debug\netcoreapp3.1\SupplierPriceLister.Models.AssemblyInfo.cs
+C:\My Projects\CODE TESTS\Buildxact\SupplierPriceLister.Models\obj\Debug\netcoreapp3.1\SupplierPriceLister.Models.dll
+C:\My Projects\CODE TESTS\Buildxact\SupplierPriceLister.Models\obj\Debug\netcoreapp3.1\SupplierPriceLister.Models.pdb
