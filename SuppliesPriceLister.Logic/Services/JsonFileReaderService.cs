@@ -1,4 +1,5 @@
-﻿using Newtonsoft.Json;
+﻿using Microsoft.Extensions.Configuration;
+using Newtonsoft.Json;
 using SupplierPriceLister.Models;
 using System;
 using System.Collections.Generic;
@@ -8,12 +9,17 @@ namespace SuppliesPriceLister.Logic
 {
     public class JsonFileReaderService : IFileReaderService
     {
+        private readonly IConfiguration _config;
+
+        public JsonFileReaderService(IConfiguration config)
+        {
+            _config = config;
+        }
+    
         public IEnumerable<SupplyItem> ReadFromFile(string path)
         {
-            List<SupplyItem> items = new List<SupplyItem>();
-
-            //read form Csv file
-
+            var jsonFilePath = _config.GetValue<string>("pathToJson");
+            var items = JsonConvert.DeserializeObject<SupplyItem>(File.ReadAllText(jsonFilePath));
             return items;
 
         }

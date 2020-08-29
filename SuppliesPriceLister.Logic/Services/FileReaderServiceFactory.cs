@@ -5,7 +5,7 @@ using System.Text;
 
 namespace SuppliesPriceLister.Logic.Services
 {
-    public class FileReaderServiceFactory
+    public class FileReaderServiceFactory : IFileReaderServiceFactory
     {
         public IFileReaderService GetFileReaderService(FileFormat format)
         {
